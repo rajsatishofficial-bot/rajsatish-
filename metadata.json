@@ -1,0 +1,10 @@
+{
+  "name": "MapGenie - Real-Time Maps AI Chatbot",
+  "description": "Interactive map-based assistant powered by Google Maps Platform and Gemini with real-time Search Grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
